@@ -1,2 +1,2 @@
 # Python-sqllite3
-database with sqlllite3
+Create table and add users with sqlllite3
